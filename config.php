@@ -3,8 +3,8 @@
 return [
     'baseUrl' => '',
     'production' => false,
-    'siteName' => 'Guttume',
-    'siteDescription' => 'Developer | Programmer | Human',
+    'siteName' => 'guttume',
+    'siteDescription' => 'human; programmer; developer;',
     'siteAuthor' => 'Amit Kumar Dubey',
 
     // collections
