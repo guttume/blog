@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 section: content
-title: 'Remove a non empty directory in php'
+title: 'Remove a non empty directory in php (using Standard PHP Library)'
 author: "guttume"
 date: 2019-09-15
 ---
