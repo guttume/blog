@@ -29,7 +29,7 @@
 
                 gtag('config', 'UA-146839930-1');
             </script>
-
+            <script data-ad-client="ca-pub-8042212825414249" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         @endif
 
         <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,300i,400,400i,700,700i,800,800i" rel="stylesheet">
