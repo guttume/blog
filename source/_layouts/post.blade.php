@@ -5,6 +5,7 @@
     <meta property="og:type" content="article" />
     <meta property="og:url" content="{{ $page->getUrl() }}"/>
     <meta property="og:description" content="{{ $page->description }}" />
+    <link rel="canonical" href="{{ $page->getUrl() }}">
 @endpush
 
 @section('body')
